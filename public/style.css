@@ -1,0 +1,52 @@
+.Snap-dashNav ul
+{
+    list-style:none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:baseline;
+    gap:50px;
+
+    
+}
+
+.dashboard-snaprrama
+{
+    margin-top:35px;
+    width:auto;
+    height:100px;
+    border-color:black;
+    background-color:cyan;
+}
+
+
+.firstline
+{
+    display:flex;
+    justify-content:flex-start;
+}
+
+.secondline
+{
+    display:flex;
+    justify-content:flex-start;
+}
+
+.ranking-table
+{
+   align-self:center;
+    border: solid black 1px;
+    width:40%;
+}
+
+.RatingUI
+{
+    display:flex;
+    justify-content: space-evenly;
+
+}
+
+.ratinginput
+{
+    border:solid black 3px;
+}
